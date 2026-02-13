@@ -146,6 +146,10 @@ Scalable architecture
 -   Use useState hook deeply
 -   Add local storage persistence
 -   Improve UI styling
+----
+<img width="1919" height="1067" alt="Screenshot 2026-02-13 162852" src="https://github.com/user-attachments/assets/f008a91d-535e-479c-9d9c-4189a416147e" />
+
+
 
 ------------------------------------------------------------------------
 
